@@ -1,6 +1,8 @@
 ---
-title: "Projects"
+layout: page
 ---
+
+<div align="center"><h2>Projects</h2></div>
   
 ### Bioinformatics tools
 * Public data collection, curation, and analysis
