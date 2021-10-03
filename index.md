@@ -13,5 +13,6 @@ layout: page
   <img width="800" src="https://raw.githubusercontent.com/rli012/rli012.github.io/master/img/publications.png">
 </p>
 
-+ Nucleic Acids Research  + Molecular Biology and Evolution
++ Nucleic Acids Research
++ Molecular Biology and Evolution
 + The Plant Journal
