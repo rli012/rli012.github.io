@@ -3,6 +3,8 @@ layout: page
 ---
 
 <div align="center"><h3>Projects</h3></div>
+
+---------------------------------------------
   
 ### Bioinformatics tools
 * Public data collection, curation, and analysis
