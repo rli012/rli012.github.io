@@ -21,7 +21,7 @@ layout: page
     <div id="client-logos">
       {% for client in site.data.software %}
         <a class="client-img" href="{{ client.url }}" title="{{ client.name }}">
-          <img alt="{{ client.name }}" src="/assets/img/logos/{{ client.img }}" />
+          <img alt="{{ client.name }}" src="img/logos/{{ client.img }}" />
         </a>
       {% endfor %}
     </div>
