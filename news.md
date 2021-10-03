@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### <center>News</center>
+### <center>News2</center>
 
 2020-09-26  A co-first author paper is accepted in *The Plant Journal*!
 
