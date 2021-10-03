@@ -1,18 +1,19 @@
 ---
 layout: page
-title: Pub
-subtitle: Publications
 ---
+
+<div align="center"><h2>Publications</h2></div>
+
 
 #### 2021
 
 **1.** [**<ins>Li, R.</ins>**, Zhu, J., Zhong, W.-D., Jia, Z., 2021. PCaDB - a comprehensive and interactive database for transcriptomes from prostate cancer population cohorts. **<ins>bioRxiv**</ins>.](https://doi.org/10.1101/2021.06.29.449134) 
 
-**2.** [**<ins>Li, R.</ins>**, Zhu, J., Zhong, W.-D., Jia, Z., 2021. Comprehensive evaluation of machine learning models and gene expression signatures for prostate cancer prognosis using large population cohorts. **<ins>bioRxiv**</ins>.](https://doi.org/10.1101/2021.07.02.450975)  
+**2.** [**<ins>Li, R.</ins>**, Zhu, J., Zhong, W.-D., Jia, Z., 2021. Comprehensive evaluation of machine learning models and gene expression signatures for prostate cancer prognosis using large population cohorts. **<ins>bioRxiv</ins>**.](https://doi.org/10.1101/2021.07.02.450975)  
 
-**3.** [**<ins>Li, R.</ins>**, Qu, H., Wang, S., Chater, J.M., Wang, X., Cui, Y., Yu, L., Zhou, R., Jia, Q., Traband, R., Wang, M., Xie, W., Yuan, D., Zhu, J., Zhong, W.D., Jia, Z., 2021. CancerMIRNome: an interactive analysis and visualization database for miRNome profiles of human cancer. **<ins>Nucleic Acids Research**</ins>. (IF: 16.97)](https://doi.org/10.1093/nar/gkab784) 
+**3.** [**<ins>Li, R.</ins>**, Qu, H., Wang, S., Chater, J.M., Wang, X., Cui, Y., Yu, L., Zhou, R., Jia, Q., Traband, R., Wang, M., Xie, W., Yuan, D., Zhu, J., Zhong, W.D., Jia, Z., 2021. CancerMIRNome: an interactive analysis and visualization database for miRNome profiles of human cancer. **<ins>Nucleic Acids Research</ins>**. (IF: 16.97)](https://doi.org/10.1093/nar/gkab784) 
 
-**4.** [**<ins>Li, R.</ins>**, Liclican, A., Xu, Y., Pitts, J., Niu, C., Zhang, J., Kim, C., Zhao, X., Soohoo, D., Babusis, D., Yue, Q., Ma, B., Murray, B., Subramanian, R., Xie, X., Zou, J., Bilello, J., Li, L., Schultz, B.E., Sakowicz, R., Smith, B., Shi, P., Murakami, E., Feng, J.Y., 2021. Key Metabolic Enzymes Involved in Remdesivir Activation in Human Lung Cells. **<ins>Antimicrobial Agents and Chemotherapy**</ins>. (IF: 5.19)](https://doi.org/10.1128/AAC.00602-2) 
+**4.** [**<ins>Li, R.</ins>**, Liclican, A., Xu, Y., Pitts, J., Niu, C., Zhang, J., Kim, C., Zhao, X., Soohoo, D., Babusis, D., Yue, Q., Ma, B., Murray, B., Subramanian, R., Xie, X., Zou, J., Bilello, J., Li, L., Schultz, B.E., Sakowicz, R., Smith, B., Shi, P., Murakami, E., Feng, J.Y., 2021. Key Metabolic Enzymes Involved in Remdesivir Activation in Human Lung Cells. **<ins>Antimicrobial Agents and Chemotherapy</ins>**. (IF: 5.19)](https://doi.org/10.1128/AAC.00602-2) 
 
 **5.** [Shi, X.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Zhai, J.<sup>#</sup>, Chen, M., Huang, K., Zheng, Z., Chen, Z., Dong, X., Liu, X., Lu, D., Feng, S., Diao, D., Ren, P., Liu, Z., Morahan, G., Cai, K., 2021. The First Comprehensive Database of Germline Pathogenic Variants in East Asian Cancer Patients. **<ins>Database**</ins>. (IF: 3.45)](https://academic.oup.com/database) 
 
