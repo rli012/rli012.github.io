@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<div align="center"><h2>About me</h2></div>
+<div align="center"><h3>About me</h3></div>
   
 ### Biography
 
