@@ -3,8 +3,8 @@ layout: page
 ---
 
 <div align="center"><h3>About me</h3></div>
-  
-### Biography
+
+----------------------
 
 My name is Ruidong Li, a Bioinformatics Research Scientist at [Gilead Sciences, Inc.](https://www.gilead.com/) in the Bay Area in California, USA. 
 
@@ -69,7 +69,7 @@ Cancer Genomics
 
 Early Cancer Detection
 
----
+
 ### Technical skills
 
 #R/Bioconductor/shiny, Python, Linux, Slurm, SGE
@@ -80,6 +80,4 @@ Early Cancer Detection
 
 #TCGA, GEO, Blueprint, CCLE, GTEx, Encode
 
-...
----
 
