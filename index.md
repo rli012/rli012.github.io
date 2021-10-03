@@ -17,8 +17,6 @@ layout: page
 
 <div id="clients-out" class="page-section cut1">
   <div id="clients">
-    #<div class="section-title">Clients</div>
-    #<div id="clients-subtitle">Clients range from startups to universities to Fortune 500 companies</div>
     <div id="client-logos">
       {% for client in site.data.software %}
         <a class="client-img" href="{{ client.url }}" title="{{ client.name }}">
