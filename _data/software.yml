@@ -1,0 +1,10 @@
+- name: Johnson & Johnson
+  img: jnj.png
+  url: https://www.jnj.com/
+  height: 3.125rem
+- name: Stanford University 
+  img: stanforduni.png
+  url: https://www.stanford.edu/
+- name: Lieberman Research Worldwide
+  img: lrw.png
+  url: https://lrwonline.com/
