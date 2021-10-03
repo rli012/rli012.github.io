@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: **Publications**
+subtitle: Publications
 ---
 
 #### 2021
