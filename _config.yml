@@ -18,6 +18,7 @@ navbar-links:
   About Me: "about"
   Projects: "projects"
   Publications: "publications"
+  Software: "software"
   News: "news"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
