@@ -1,6 +1,8 @@
 ---
-title: "About me"
+layout: page
 ---
+
+<div align="center"><h2>About me</h2></div>
   
 ### Biography
 
