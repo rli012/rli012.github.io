@@ -1,5 +1,6 @@
 ---
-title: "Publications"
+layout: page
+title: Publications
 ---
 
 #### 2021
