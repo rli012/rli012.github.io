@@ -1,4 +1,4 @@
-#### News
+<center>### Centered text</center>
 
 2020-09-26  A co-first author paper is accepted in *The Plant Journal*!
 
