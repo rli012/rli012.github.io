@@ -14,7 +14,7 @@ author: Ruidong Li
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "home"
+  Home: "index"
   About Me: "about"
   Projects: "projects"
   Publications: "publications"
