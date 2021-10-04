@@ -38,34 +38,23 @@ layout: page
 
 #### 2019
 
-**1.** [Cui, Y.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Li, G.<sup>#</sup>, Zhang, F., Zhu, T., Zhang, Q., Ali, J., Li, Z. and Xu, S., 2019. Hybrid Breeding of Rice via Genomic Selection. **<ins>Plant Biotechnology Journal</ins>**. (IF: 9.80)](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13170)  
-
-**2.** [Kang, K.<sup>#</sup>, Li, J.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Xu, X., Liu, J., Qin, L., Huang, T., Wu, J., Jiao, M., Wei, M., Wang, H., Wang, T., and Zhang, Q., 2019. Potentially critical roles of NDUFB5, TIMMDC1,and VDAC3 in the progression of septic cardiomyopathy through integrated bioinformatics analysis. **<ins>DNA and Cell Biology</ins>**. (IF: 3.31)](https://www.liebertpub.com/doi/10.1089/dna.2019.4859)  
-
-**3.** [Dai, X., Gonzalez, G., Li, L., Li, J., You, C., Miao, W., Hu, J., Fu, L., Zhao, Y., **<ins>Li, R.</ins>**, Li, L., Chen, X.,  Xu, Y., Gu, W., Wang, Y., 2019. YTHDF2 Binds to 5-Methylcytosine in RNA and Modulates the Maturation of Ribosomal RNA. **<ins>Analytical Chemistry</ins>**. (IF: 6.99)](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.9b04505)  
-
-**4.** [Wang, T., Zheng, X., **<ins>Li, R.</ins>**, Liu, X., Wu, J., Zhong, X., Zhang, W., Liu, Y., He, X., Liu, W. and Wang, H., 2019. Integrated bioinformatic analysis reveals YWHAB as a novel diagnostic biomarker for idiopathic pulmonary arterial hypertension. **<ins>Journal of cellular physiology</ins>**, 234(5), pp.6449-6462. (IF: 6.38)](https://doi.org/10.1002/jcp.27381)  
-
-**5.** [Jia, Z., Zhu, J., Zhuo, Y., **<ins>Li, R.</ins>**, Qu, H., Wang, S., Lu, J., Chater, J.M., Ma, R., Liu, Z., and Cai, Z., 2019. Offsetting Expression Profiles of Prognostic Markers in Prostate Tumor versus its Microenvironment. **<ins>Frontiers in Oncology</ins>**, 9, p.539. (IF: 6.24)](https://doi.org/10.3389/fonc.2019.00539)  
-
-**6.** [Wei, J., Xie, W., **<ins>Li, R.</ins>**, Wang, S., Qu, H., Ma, R., Zhou, X. and Jia, Z., 2019. Analysis of trait heritability in functionally partitioned rice genome. **<ins>Heredity</ins>**, pp.1-14. (IF: 3.82)](https://www.nature.com/articles/s41437-019-0244-9)  
-
-**7.** [Wang, S., Wei, J., **<ins>Li, R.</ins>**, Qu, H., Chater, J.M., Ma, R., Li, Y., Xie, W. and Jia, Z., 2019. Identification of optimal prediction models using multi-omic data for selecting hybrid rice. **<ins>Heredity</ins>**, p.1. (IF: 3.82)](https://www.nature.com/articles/s41437-019-0210-6)  
-
-**8.** [Zhou, T., Lin, W., Zhu, Q., Renaud, H., Liu, X., **<ins>Li, R.</ins>**, Tang, C., Ma, C., Rao, T., Tan, Z. and Guo, Y., 2019. The role of PEG3 in the occurrence and prognosis of colon cancer. **<ins>OncoTargets and Therapy</ins>**, 12, pp.6001-6012. (IF: 4.15)](https://doi.org/10.2147/OTT.S208060)  
+**1.** Cui, Y.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Li, G.<sup>#</sup>, Zhang, F., Zhu, T., Zhang, Q., Ali, J., Li, Z. and Xu, S., 2019. [Hybrid Breeding of Rice via Genomic Selection](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13170). ***Plant Biotechnology Journal***. (IF: 9.80)  
+**2.** Kang, K.<sup>#</sup>, Li, J.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Xu, X., Liu, J., Qin, L., Huang, T., Wu, J., Jiao, M., Wei, M., Wang, H., Wang, T., and Zhang, Q., 2019. [Potentially critical roles of NDUFB5, TIMMDC1,and VDAC3 in the progression of septic cardiomyopathy through integrated bioinformatics analysis](https://www.liebertpub.com/doi/10.1089/dna.2019.4859). ***DNA and Cell Biology***. (IF: 3.31)  
+**3.** Dai, X., Gonzalez, G., Li, L., Li, J., You, C., Miao, W., Hu, J., Fu, L., Zhao, Y., **<ins>Li, R.</ins>**, Li, L., Chen, X.,  Xu, Y., Gu, W., Wang, Y., 2019. [YTHDF2 Binds to 5-Methylcytosine in RNA and Modulates the Maturation of Ribosomal RNA](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.9b04505). ***Analytical Chemistry***. (IF: 6.99)  
+**4.** Wang, T., Zheng, X., **<ins>Li, R.</ins>**, Liu, X., Wu, J., Zhong, X., Zhang, W., Liu, Y., He, X., Liu, W. and Wang, H., 2019. [Integrated bioinformatic analysis reveals YWHAB as a novel diagnostic biomarker for idiopathic pulmonary arterial hypertension](https://doi.org/10.1002/jcp.27381). ***Journal of cellular physiology***. (IF: 6.38)  
+**5.** Jia, Z., Zhu, J., Zhuo, Y., **<ins>Li, R.</ins>**, Qu, H., Wang, S., Lu, J., Chater, J.M., Ma, R., Liu, Z., and Cai, Z., 2019. [Offsetting Expression Profiles of Prognostic Markers in Prostate Tumor versus its Microenvironment](https://doi.org/10.3389/fonc.2019.00539). ***Frontiers in Oncology***. (IF: 6.24)  
+**6.** Wei, J., Xie, W., **<ins>Li, R.</ins>**, Wang, S., Qu, H., Ma, R., Zhou, X. and Jia, Z., 2019. [Analysis of trait heritability in functionally partitioned rice genome](https://www.nature.com/articles/s41437-019-0244-9). ***Heredity***. (IF: 3.82)
+**7.** Wang, S., Wei, J., **<ins>Li, R.</ins>**, Qu, H., Chater, J.M., Ma, R., Li, Y., Xie, W. and Jia, Z., 2019. [Identification of optimal prediction models using multi-omic data for selecting hybrid rice](https://www.nature.com/articles/s41437-019-0210-6). ***Heredity***. (IF: 3.82)
+**8.** Zhou, T., Lin, W., Zhu, Q., Renaud, H., Liu, X., **<ins>Li, R.</ins>**, Tang, C., Ma, C., Rao, T., Tan, Z. and Guo, Y., 2019. [The role of PEG3 in the occurrence and prognosis of colon cancer](https://doi.org/10.2147/OTT.S208060). ***OncoTargets and Therapy***. (IF: 4.15)  
 
 
 #### 2018
 
-**1.** [**<ins>Li, R.</ins><sup>#</sup>**, Qu, H.<sup>#</sup>, Wang, S., Wei, J., Zhang, L., Ma, R., Lu, J., Zhu, J., Zhong, W.D. and Jia, Z., 2018. GDCRNATools: an R/Bioconductor package for integrative analysis of lncRNA, miRNA and mRNA data in GDC. **<ins>Bioinformatics</ins>**, 34(14), pp.2515-2517. (IF: 6.94)](https://academic.oup.com/bioinformatics/article/34/14/2515/4917355)  
-
-**2.** [Wei, J., Wang, A., **<ins>Li, R.</ins>**, Qu, H. and Jia, Z., 2018. Metabolome-wide association studies for agronomic traits of rice. **<ins>Heredity</ins>**, 120(4), p.342. (IF: 3.82)](https://www.nature.com/articles/s41437-017-0032-3)  
-
-**3.** [Lu, J., Dong, W., He, H., Han, Z., Zhuo, Y., Mo, R., Liang, Y., Zhu, J., **<ins>Li, R.</ins>**, Qu, H., Zhang, L., Wang, S., Ma, R., Jia, Z. and Zhong, W., 2018. Autophagy induced by overexpression of DCTPP1 promotes tumor progression and predicts poor clinical outcome in prostate cancer. **<ins>International journal of biological macromolecules</ins>**, 118, pp.599-609. (IF: 6.95)](https://doi.org/10.1016/j.ijbiomac.2018.06.005)  
-
-**4.** [Chen, J., **<ins>Li, R.</ins>**, Ferrante, S.P., Wrightsman, T.R., Jia, Z., Burnette, J., Roose, M.L., Wessler, S. and Stajich, J., 2020. Abstract: Resolving the Diploid Genome of Fairchild Mandarin with Single Molecule Sequencing Technologies. **<ins>Plant and Animal Genome XXVI Conference</ins>**.](https://pag.confex.com/pag/xxvi/meetingapp.cgi/Paper/31388) 
+**1.** **<ins>Li, R.</ins><sup>#</sup>**, Qu, H.<sup>#</sup>, Wang, S., Wei, J., Zhang, L., Ma, R., Lu, J., Zhu, J., Zhong, W.D. and Jia, Z., 2018. [GDCRNATools: an R/Bioconductor package for integrative analysis of lncRNA, miRNA and mRNA data in GDC](https://academic.oup.com/bioinformatics/article/34/14/2515/4917355). ***Bioinformatics***, 34(14), pp.2515-2517. (IF: 6.94)  
+**2.** Wei, J., Wang, A., **<ins>Li, R.</ins>**, Qu, H. and Jia, Z., 2018. [Metabolome-wide association studies for agronomic traits of rice](https://www.nature.com/articles/s41437-017-0032-3). ***Heredity***, 120(4), p.342. (IF: 3.82)  
+**3.** Lu, J., Dong, W., He, H., Han, Z., Zhuo, Y., Mo, R., Liang, Y., Zhu, J., **<ins>Li, R.</ins>**, Qu, H., Zhang, L., Wang, S., Ma, R., Jia, Z. and Zhong, W., 2018. [Autophagy induced by overexpression of DCTPP1 promotes tumor progression and predicts poor clinical outcome in prostate cancer](https://doi.org/10.1016/j.ijbiomac.2018.06.005). ***International journal of biological macromolecules***, 118, pp.599-609. (IF: 6.95)  
 
 
 #### 2015
 
-**1.** [Gu, W., Gallagher, G.R., Dai, W., Liu, P., **<ins>Li, R.</ins>**, Trombly, M.I., Gammon, D.B., Mello, C.C., Wang, J.P. and Finberg, R.W., 2015. Influenza A virus preferentially snatches noncoding RNA caps. **<ins>RNA</ins>**, 21(12), pp.2067-2075. (IF: 4.94)](https://rnajournal.cshlp.org/content/21/12/2067.full)  
+**1.** Gu, W., Gallagher, G.R., Dai, W., Liu, P., **<ins>Li, R.</ins>**, Trombly, M.I., Gammon, D.B., Mello, C.C., Wang, J.P. and Finberg, R.W., 2015. [Influenza A virus preferentially snatches noncoding RNA caps](https://rnajournal.cshlp.org/content/21/12/2067.full). ***RNA***, 21(12), pp.2067-2075. (IF: 4.94)
