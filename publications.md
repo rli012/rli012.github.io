@@ -9,7 +9,7 @@ layout: page
 
 #### 2021
 
-**1.** [**<ins>Li, R.</ins>**, Zhu, J., Zhong, W.-D., Jia, Z., 2021. PCaDB - a comprehensive and interactive database for transcriptomes from prostate cancer population cohorts. **<ins>bioRxiv</ins>**.](https://doi.org/10.1101/2021.06.29.449134) 
+**1.** **<ins>Li, R.</ins>**, Zhu, J., Zhong, W.-D., Jia, Z., 2021. [PCaDB - a comprehensive and interactive database for transcriptomes from prostate cancer population cohorts.](https://doi.org/10.1101/2021.06.29.449134) **<ins>bioRxiv</ins>**.
 
 **2.** [**<ins>Li, R.</ins>**, Zhu, J., Zhong, W.-D., Jia, Z., 2021. Comprehensive evaluation of machine learning models and gene expression signatures for prostate cancer prognosis using large population cohorts. **<ins>bioRxiv</ins>**.](https://doi.org/10.1101/2021.07.02.450975)  
 
