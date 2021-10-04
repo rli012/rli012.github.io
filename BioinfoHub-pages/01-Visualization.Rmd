@@ -1,0 +1,121 @@
+# Visualization {#Visualization}
+
+*ggplot2* is a powerful package for data visualization in R. Most of the figures in this chapter are plotted using *ggplot2*. Other great packages such as *VennDiagram*, *UpSetR*, and *ComplexHeatmap* are used to generate special figures like Venn diagram, UpSet, and Heatmap, etc. 
+
+
+```{r eval=TRUE}
+library(ggplot2)
+```
+
+
+
+## Volcano plot
+
+```{r eval=TRUE}
+library(ggrepel)
+
+dataForVolcanoPlot <- readRDS(file='data/dataForVolcanoPlot.rds')
+head(dataForVolcanoPlot)
+
+logFcThreshold <- log(2)
+adjPvalThreshold <- 0.05
+
+
+dataForVolcanoPlot$Significance[with(dataForVolcanoPlot, logFC < logFcThreshold | FDR > adjPvalThreshold)] <- 'NS'
+dataForVolcanoPlot$Significance[with(dataForVolcanoPlot, logFC >= logFcThreshold & FDR <= adjPvalThreshold)] <- 'UP'
+dataForVolcanoPlot$Significance[with(dataForVolcanoPlot, logFC <= -logFcThreshold & FDR <= adjPvalThreshold)] <- 'DOWN'
+
+
+ggplot(dataForVolcanoPlot, aes(x = logFC, y = -log10(FDR))) +
+  #xlim(-7.5,7.5) 
+  xlab(expression('log'[2]*'(Fold Change)')) + ylab(expression('-log'[10]*'(FDR)')) +
+  geom_point(aes(color=Significance), alpha=1, size=2) +
+  geom_vline(xintercept = c(-logFcThreshold, logFcThreshold), 
+             color='darkgreen', linetype='dashed') +
+  geom_hline(yintercept = -log10(adjPvalThreshold), color='darkgreen',linetype='dashed')+
+  scale_x_continuous(breaks=c(-4,-2,0,2,4,6,8,10)) +
+  scale_color_manual(values = c('green3',"black", "red")) + 
+  geom_text_repel(data = subset(dataForVolcanoPlot, FDR < 10^-40 & logFC > log(2)), segment.alpha = 0.4,
+                  aes(label = symbol), size = 3.5, color='red', segment.color = 'black') +
+  geom_text_repel(data = subset(dataForVolcanoPlot, FDR < 10^-40 & logFC < log(2)*-1), segment.alpha = 0.4,
+                  aes(label = symbol), size = 3.5, color='green3', segment.color = 'black') +
+  theme_gray() +
+  theme(legend.position="none") +
+  theme(axis.text=element_text(size=14), 
+        axis.title=element_text(size=16),
+        strip.text = element_text(size=14)) +
+  theme(plot.margin =  margin(t = 0.25, r = 0.25, b = 0.25, l = 0.25, unit = "cm"))
+
+```
+
+
+
+
+
+
+
+
+## Barplot
+
+
+## Boxplot
+
+
+## Scatter plot
+
+
+## Venn Diagram
+
+
+## UpSet plot
+
+```{r eval=TRUE}
+
+library(UpSetR)
+
+A <- sample(1:1000, 400, replace = FALSE);
+B <- sample(1:1000, 600, replace = FALSE);
+C <- sample(1:1000, 350, replace = FALSE);
+D <- sample(1:1000, 550, replace = FALSE);
+E <- sample(1:1000, 375, replace = FALSE);
+G <- sample(1:1000, 200, replace = FALSE);
+H <- sample(1:1000, 777, replace = FALSE);
+
+dataForUpSetPlot <- list(A=A, B=B, C=C, D=D, E=E, G=G, H=H)
+setsBarColors <- c('#EA4335', '#FBBC05', '#34A853', '#4285F4')
+
+### sort by degree
+upset(fromList(dataForUpSetPlot),
+      nsets=length(dataForUpSetPlot),
+      nintersects = 1000,
+      sets = c("A", "B", "C", 'D'),
+      #keep.order = TRUE,
+      point.size = 3,
+      line.size = 1,
+      number.angles = 0,
+      text.scale = c(1.5, 1.2, 1.2, 1, 1.5, 1), # ytitle, ylabel, xtitle, xlabel, sets, number
+      order.by="degree",
+      matrix.color="black",
+      main.bar.color = 'black',
+      mainbar.y.label = 'Intersection Size',
+      sets.bar.color=setsBarColors,
+      queries = list(list(query = intersects,
+           params = list('A','B','C'), color = "orange", active = T)))
+
+
+```
+
+
+
+
+
+## Heatmap
+
+
+## Bubble plot
+
+
+## Radar plot
+
+
+

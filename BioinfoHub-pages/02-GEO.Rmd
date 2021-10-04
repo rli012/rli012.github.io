@@ -1,0 +1,3 @@
+# Gene Expression Omnibus (GEO)
+
+Download and preprocess transcriptomic data from GEO
