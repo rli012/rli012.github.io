@@ -2,12 +2,15 @@
   img: CancerMIRNome.png
   url: http://jialab-ucr.org/CancerMIRNome/
   height: 3.125rem
-- name: Hapi 
-  img: Hapi.png
-  url: https://cran.r-project.org/web/packages/Hapi/vignettes/Hapi.html
 - name: PCaDB
   img: PCaDB.png
   url: http://jialab-ucr.org/PCaDB/
+- name: WebGEO
+  img: WebGEO.png
+  url: http://jialab-ucr.org/WebGEO/
+- name: Hapi 
+  img: Hapi.png
+  url: https://cran.r-project.org/web/packages/Hapi/vignettes/Hapi.html
 - name: GDCRNATools
   img: GDCRNATools.png
   url: http://bioconductor.org/packages/devel/bioc/vignettes/GDCRNATools/inst/doc/GDCRNATools.html
