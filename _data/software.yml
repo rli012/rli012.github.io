@@ -4,10 +4,10 @@
   height: 3.125rem
 - name: PCaDB
   img: PCaDB.png
-  url: http://jialab-ucr.org/PCaDB/
+  url: http://bioinfo.jialab-ucr.org/PCaDB/
 - name: WebGEO
   img: WebGEO.png
-  url: http://jialab-ucr.org/WebGEO/
+  url: http://bioinfo.jialab-ucr.org/WebGEO/
 - name: Hapi 
   img: Hapi.png
   url: https://cran.r-project.org/web/packages/Hapi/vignettes/Hapi.html
