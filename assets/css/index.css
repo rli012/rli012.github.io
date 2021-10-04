@@ -14,8 +14,8 @@
 }
 @media only screen and (max-width: 650px) {
   #clients .client-img {
-    width: 7rem;
-    height: 3rem;
+    width: 10rem;
+    height: 10rem;
     padding: 0.3rem;
   }
 }
