@@ -52,7 +52,7 @@ layout: page
 
 **1.** **<ins>Li, R.</ins><sup>#</sup>**, Qu, H.<sup>#</sup>, Wang, S., Wei, J., Zhang, L., Ma, R., Lu, J., Zhu, J., Zhong, W.D. and Jia, Z., 2018. [GDCRNATools: an R/Bioconductor package for integrative analysis of lncRNA, miRNA and mRNA data in GDC](https://academic.oup.com/bioinformatics/article/34/14/2515/4917355). ***Bioinformatics***, 34(14), pp.2515-2517. (IF: 6.94)  
 **2.** Wei, J., Wang, A., **<ins>Li, R.</ins>**, Qu, H. and Jia, Z., 2018. [Metabolome-wide association studies for agronomic traits of rice](https://www.nature.com/articles/s41437-017-0032-3). ***Heredity***, 120(4), p.342. (IF: 3.82)  
-**3.** Lu, J., Dong, W., He, H., Han, Z., Zhuo, Y., Mo, R., Liang, Y., Zhu, J., **<ins>Li, R.</ins>**, Qu, H., Zhang, L., Wang, S., Ma, R., Jia, Z. and Zhong, W., 2018. [Autophagy induced by overexpression of DCTPP1 promotes tumor progression and predicts poor clinical outcome in prostate cancer](https://doi.org/10.1016/j.ijbiomac.2018.06.005). ***International journal of biological macromolecules***, 118, pp.599-609. (IF: 6.95)  
+**3.** Lu, J., Dong, W., He, H., Han, Z., Zhuo, Y., Mo, R., Liang, Y., Zhu, J., **<ins>Li, R.</ins>**, Qu, H., Zhang, L., Wang, S., Ma, R., Jia, Z. and Zhong, W., 2018. [Autophagy induced by overexpression of DCTPP1 promotes tumor progression and predicts poor clinical outcome in prostate cancer](https://doi.org/10.1016/j.ijbiomac.2018.06.005). ***International Journal of Biological Macromolecules***, 118, pp.599-609. (IF: 6.95)  
 
 
 #### 2015
