@@ -9,8 +9,8 @@
   vertical-align: middle;
   padding: 0.9375rem;
   transition: transform 150ms;
-  height: 12rem;
-  width: 12rem;
+  height: 15rem;
+  width: 15rem;
 }
 @media only screen and (max-width: 650px) {
   #clients .client-img {
