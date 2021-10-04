@@ -4,13 +4,13 @@
   height: 3.125rem
 - name: Hapi 
   img: Hapi.png
-  url: https://www.stanford.edu/
+  url: https://cran.r-project.org/web/packages/Hapi/vignettes/Hapi.html
 - name: PCaDB
   img: PCaDB.png
   url: https://jialab-ucr.org/PCaDB/
 - name: GDCRNATools
   img: GDCRNATools.png
-  url: https://lrwonline.com/
+  url: http://bioconductor.org/packages/devel/bioc/vignettes/GDCRNATools/inst/doc/GDCRNATools.html
 - name: BioinfoHub
   img: BioinfoHub.png
-  url: https://lrwonline.com/
+  url: https://rli012.github.io/BioinfoHub-pages/book/
