@@ -8,6 +8,6 @@ layout: page
 
 #### 2021
 
-**2020-09-26**  Collaborative work with Dr. Guangbin Luo is published in *The Plant Journal*!
+**09-26**     Collaborative work with Dr. Guangbin Luo is published in *The Plant Journal*!
 
-**2020-09-09**  CancerMIRNome is published in *Nucleic Acids Research*!
+**09-09**     CancerMIRNome is published in *Nucleic Acids Research*!
