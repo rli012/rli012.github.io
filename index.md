@@ -1,5 +1,7 @@
 ---
 layout: page
+css:
+  - /assets/css/index.css
 ---
 
 
