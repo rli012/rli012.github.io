@@ -1,0 +1,6 @@
+Package: placeholder
+Type: Book
+Title: BioinfoHub
+Version: 0.0.1
+Imports: bookdown
+Remotes: rli012/rli012.github.io/BioinfoHub-pages

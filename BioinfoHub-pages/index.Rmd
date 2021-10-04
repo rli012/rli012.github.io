@@ -1,0 +1,23 @@
+--- 
+title: "BioinfoHub"
+author: "Ruidong Li"
+date: "Updated on `r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rli012/rli012.github.io/BioinfoHub-pages
+description: "A comprehensive collection of bioinformatics techniques."
+---
+
+# Introduction and Motivation {-}
+
+I'm a Bioinformatics Research Scientist at [Gilead Sciences, Inc.](https://www.gilead.com/) in the Bay Area in California, USA. Before joining Gilead, I studied in the [Genetics, Genomics, and Bioinformatics (GGB) Program](https://ggb.ucr.edu/) at [Univeristy of California, Riverside (UCR)](https://www.ucr.edu/) for the Ph.D. degree of Bioinformatics (2013-2018) and in the [Institute of Genetics and Developmental Biology (IGDB), Chinese Academy of Sciences (CAS)](http://www.genetics.ac.cn/) for my master's degree of Genetics (2010-2013).
+
+In this book, I'm planning to make a comprehensive collection of bioinformatics techniques that are widely used in the community. The purpose is not to build tuitorials for beginning learners, instead, I'd rather to standardize the bioinformatics workflows to save time for future projects so that scientists can focus more on answering the biological questions of interests.
+
+I love open source and I am very happy to be collaborating with biologists on exciting projects. If you have any questions or would like to have more discussions, please feel free to email me at rli012@ucr.edu or add my wechat: li-rui-dong, although the response may not be prompt.
+
+
