@@ -6,6 +6,8 @@ layout: page
 
 ----------------------
 
+#### Summary
+
 + Research Bioinformatics Scientist at Gilead Science Inc., Foster City, CA, USA (2018 - now)
 + 10+ years of research experience in bioinformatics studies. Developed 6 bioinformatics software/web tools/algorithms
 + Strong track record of publications in high-impact journals: 24 peer-reviewed publications, including 11 (co)-first/corresponding author papers, with > 330 citations ([Google scholar](https://scholar.google.com/citations?hl=en&user=dsoteJwAAAAJ&view_op=list_works&sortby=pubdate), as of Oct, 2021)
