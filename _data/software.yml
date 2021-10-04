@@ -1,13 +1,13 @@
 - name: CancerMIRNome
   img: CancerMIRNome.png
-  url: https://www.jnj.com/
+  url: https://jialab-ucr.org/CancerMIRNome/
   height: 3.125rem
 - name: Hapi 
   img: Hapi.png
   url: https://www.stanford.edu/
 - name: PCaDB
   img: PCaDB.png
-  url: https://lrwonline.com/
+  url: https://jialab-ucr.org/PCaDB/
 - name: GDCRNATools
   img: GDCRNATools.png
   url: https://lrwonline.com/
