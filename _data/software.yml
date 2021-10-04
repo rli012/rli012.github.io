@@ -1,10 +1,16 @@
-- name: Johnson & Johnson
-  img: jnj.png
+- name: CancerMIRNome
+  img: CancerMIRNome.png
   url: https://www.jnj.com/
   height: 3.125rem
-- name: Stanford University 
-  img: stanforduni.png
+- name: Hapi 
+  img: Hapi.png
   url: https://www.stanford.edu/
-- name: Lieberman Research Worldwide
-  img: lrw.png
+- name: PCaDB
+  img: PCaDB.png
+  url: https://lrwonline.com/
+- name: GDCRNATools
+  img: GDCRNATools.png
+  url: https://lrwonline.com/
+- name: BioinfoHub
+  img: BioinfoHub.png
   url: https://lrwonline.com/
