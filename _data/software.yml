@@ -1,6 +1,6 @@
 - name: CancerMIRNome
   img: CancerMIRNome.png
-  url: http://jialab-ucr.org/CancerMIRNome/
+  url: http://bioinfo.jialab-ucr.org/CancerMIRNome/
   height: 3.125rem
 - name: PCaDB
   img: PCaDB.png
