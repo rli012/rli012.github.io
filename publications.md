@@ -6,6 +6,7 @@ layout: page
 
 --------------------------------------------------
 
+\# These authors contributed equally; * Corresponding author
 
 #### 2021
 
@@ -24,23 +25,15 @@ layout: page
 
 #### 2020
 
-**1.** [**<ins>Li, R.</ins><sup>#</sup>**, Qu, H.<sup>#</sup>, Chen, J., Wang, S., Chater, J.M., Zhang, L., Wei, J., Zhang, Y., Xu, C., Zhong, W.D., Zhu, J., Lu, J., Feng, Y., Chen, W., Ma, R., Ferrante, S.P., Roose, M.L., and Jia, Z., 2020. Inference of Chromosome-length Haplotypes Using Genomic Data of Three or a Few More Single Gametes. **<ins>Molecular Biology and Evolution</ins>**. (IF: 16.24)](https://doi.org/10.1093/molbev/msaa176)  
-
-**2.** [**<ins>Li, R.</ins><sup>#</sup>**, Wang, S.<sup>#</sup>, Cui, Y.<sup>#</sup>, Qu, H., Chater, J.M., Zhang, L., Wei, J., Wang, M., Xu, Y., Yu, L., Lu, J., Feng, Y., Zhou, R., Huang, Y., Ma, R., Zhu, J., Zhong, W., and Jia, Z., 2020. Extended Application of Genomic Selection to Screen Multi-Omics Data for Prognostic Signatures of Prostate Cancer. **<ins>Briefings in Bioinformatics</ins>**. (IF: 11.62)](https://doi.org/10.1093/bib/bbaa197)  
-
-**3.** [Shi, X.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Dong, X., Chen, A.M., Liu, X., Lu, D., Feng, S., Wang, H., and Cai, K., 2020. An Immune-associated gene classifier for lung adenocarcinoma prognosis. **<ins>Journal of Translational Medicine</ins>**. (IF: 5.53)](https://doi.org/10.1186/s12967-020-02233-y)  
-
-**4.** [Gao, X.<sup>#</sup>, Huang, Z.<sup>#</sup>, Guan, C.<sup>#</sup>, Feng, C.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Xie, H.<sup>#</sup>, Que, R., Den, B., Cao, P., Li, M., Lu, J., Huang, Y., Li, M., Yang, W., Yang, X., Wen, C., Liang, X., Yang, Q., Chao, Y., Chan, L., Yenari, A.M., Jin, K.,  Chaudhuri, R.K., Zhang, J., Tan, EK., and Wang, Q., 2020. Multi-modal analysis identifies SVT genes associated with Parkinson's disease. **<ins>Briefings in Bioinformatics</ins>**. (IF: 11.62)](https://academic.oup.com/bib)  
-
-**5.** [Wang, M., **<ins>Li, R.</ins>**, Xu, S., 2020. Deshrinking Ridge Regression for Genome-wide Association Studies. **<ins>Bioinformatics</ins>** (IF: 6.94)](https://doi.org/10.1093/bioinformatics/btaa345) 
-
-**6.** [Wang, S., Xu, Y., Qu, H., Cui, Y., **<ins>Li, R.</ins>**, Chater J., Yu, Li., Zhou, R., Ma, R., Huang, Y. Qiao, Y., Hu X., Xie, W., Jia, Z., 2020. Boosting Predictabilities of Agronomic Traits in Rice using Bivariate Genomic Selection. **<ins>Briefings in Bioinformatics</ins>**. (IF: 11.62)](https://academic.oup.com/bib/article/doi/10.1093/bib/bbaa103/5867560?guestAccessKey=c06470c6-19c9-48e8-a821-f5eb870eb23b)  
-
-**7.** [Jiao, M., Li, J., Zhang, Q., Xu, Xiu., **<ins>Li, R.</ins>**, Dong, P., Meng, Chun., Li, Y., Wang, L., Qi, W., Kang, K., Wang, H., and Wang, T., 2020. Identification of four potential biomarkers associated with coronary artery disease in non-diabetic patients by Gene Co-expression Network Analysis. **<ins>Frontiers in Genetics</ins>**. (IF: 4.60)](https://www.frontiersin.org/articles/10.3389/fgene.2020.00542/full)  
-
-**8.** [Chater, J., Duong, F., Alas, M., Yip, M., Zib, A., Luu, I., Carrillo-Kashani, A., Wang, S., **<ins>Li, R.</ins>**, Qu, H., Merhaut, D., Jia, Z., 2020. Postharvest Quality of Imported, Domestic and Minimally Processed Pomegranate Fruit. **<ins>International Journal of Fruit Science</ins>**. (IF: 1.36)](https://www.tandfonline.com/doi/full/10.1080/15538362.2020.1734896)  
-
-**9.** [Ruelas, D., **<ins>Li, R.</ins>**, Franci, V., Lopez, D., Li, L., Min-Oo, G., DI Paolo, J.A., 2020. Abstract: Defining Synovial Signatures in the Rat CIA Model: What Can We Learn About RA Progression?. **<ins>Annuals of the Rheumatic Diseases</ins>**.](https://ard.bmj.com/content/79/Suppl_1/247.2)  
+**1.** **<ins>Li, R.</ins><sup>#</sup>**, Qu, H.<sup>#</sup>, Chen, J., Wang, S., Chater, J.M., Zhang, L., Wei, J., Zhang, Y., Xu, C., Zhong, W.D., Zhu, J., Lu, J., Feng, Y., Chen, W., Ma, R., Ferrante, S.P., Roose, M.L., and Jia, Z., 2020. [Inference of Chromosome-length Haplotypes Using Genomic Data of Three or a Few More Single Gametes](https://doi.org/10.1093/molbev/msaa176). ***Molecular Biology and Evolution***. (IF: 16.24)  
+**2.** **<ins>Li, R.</ins><sup>#</sup>**, Wang, S.<sup>#</sup>, Cui, Y.<sup>#</sup>, Qu, H., Chater, J.M., Zhang, L., Wei, J., Wang, M., Xu, Y., Yu, L., Lu, J., Feng, Y., Zhou, R., Huang, Y., Ma, R., Zhu, J., Zhong, W., and Jia, Z., 2020. [Extended Application of Genomic Selection to Screen Multi-Omics Data for Prognostic Signatures of Prostate Cancer](https://doi.org/10.1093/bib/bbaa197). ***Briefings in Bioinformatics***. (IF: 11.62)  
+**3.** Shi, X.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Dong, X., Chen, A.M., Liu, X., Lu, D., Feng, S., Wang, H., and Cai, K., 2020. [An Immune-associated gene classifier for lung adenocarcinoma prognosis](https://doi.org/10.1186/s12967-020-02233-y). ***Journal of Translational Medicine***. (IF: 5.53)  
+**4.** Gao, X.<sup>#</sup>, Huang, Z.<sup>#</sup>, Guan, C.<sup>#</sup>, Feng, C.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Xie, H.<sup>#</sup>, Que, R., Den, B., Cao, P., Li, M., Lu, J., Huang, Y., Li, M., Yang, W., Yang, X., Wen, C., Liang, X., Yang, Q., Chao, Y., Chan, L., Yenari, A.M., Jin, K.,  Chaudhuri, R.K., Zhang, J., Tan, EK., and Wang, Q., 2020. [Multi-modal analysis identifies SVT genes associated with Parkinson's disease](https://academic.oup.com/bib). ***Briefings in Bioinformatics***. (IF: 11.62)  
+**5.** Wang, M., **<ins>Li, R.</ins>**, Xu, S., 2020. [Deshrinking Ridge Regression for Genome-wide Association Studies](https://doi.org/10.1093/bioinformatics/btaa345). ***Bioinformatics*** (IF: 6.94)  
+**6.** Wang, S., Xu, Y., Qu, H., Cui, Y., **<ins>Li, R.</ins>**, Chater J., Yu, Li., Zhou, R., Ma, R., Huang, Y. Qiao, Y., Hu X., Xie, W., Jia, Z., 2020. [Boosting Predictabilities of Agronomic Traits in Rice using Bivariate Genomic Selection](https://academic.oup.com/bib/article/doi/10.1093/bib/bbaa103/5867560?guestAccessKey=c06470c6-19c9-48e8-a821-f5eb870eb23b). ***Briefings in Bioinformatics***. (IF: 11.62)  
+**7.** Jiao, M., Li, J., Zhang, Q., Xu, Xiu., **<ins>Li, R.</ins>**, Dong, P., Meng, Chun., Li, Y., Wang, L., Qi, W., Kang, K., Wang, H., and Wang, T., 2020. [Identification of four potential biomarkers associated with coronary artery disease in non-diabetic patients by Gene Co-expression Network Analysis](https://www.frontiersin.org/articles/10.3389/fgene.2020.00542/full). ***Frontiers in Genetics***. (IF: 4.60)  
+**8.** Chater, J., Duong, F., Alas, M., Yip, M., Zib, A., Luu, I., Carrillo-Kashani, A., Wang, S., **<ins>Li, R.</ins>**, Qu, H., Merhaut, D., Jia, Z., 2020. [Postharvest Quality of Imported, Domestic and Minimally Processed Pomegranate Fruit](https://www.tandfonline.com/doi/full/10.1080/15538362.2020.1734896). ***International Journal of Fruit Science***. (IF: 1.36)  
+**9.** Ruelas, D., **<ins>Li, R.</ins>**, Franci, V., Lopez, D., Li, L., Min-Oo, G., DI Paolo, J.A., 2020. [Abstract: Defining Synovial Signatures in the Rat CIA Model: What Can We Learn About RA Progression?](https://ard.bmj.com/content/79/Suppl_1/247.2). ***Annals of the Rheumatic Diseases***  
 
 
 #### 2019
