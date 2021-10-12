@@ -8,7 +8,7 @@ layout: page
 
 #### 2021
 
-**09-26:** Collaborative work with Dr. Guangbin Luo has been published in *[The Plant Journal](https://doi.org/10.1093/nar/gkab784)*!
+**09-26:** Collaborative work with Dr. Guangbin Luo has been published in *[The Plant Journal](https://doi.org/10.1111/tpj.15538)*!
 
 **09-09:** [CancerMIRNome](http://bioinfo.jialab-ucr.org/CancerMIRNome/) has been published in *[Nucleic Acids Research](https://doi.org/10.1093/nar/gkab784)*!
 
