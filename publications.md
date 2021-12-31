@@ -10,7 +10,7 @@ layout: page
 
 #### 2021
 
-**1.** **<ins>Li, R.</ins>**, Zhu, J., Zhong, W.-D., Jia, Z., 2021. [PCaDB - a comprehensive and interactive database for transcriptomes from prostate cancer population cohorts](https://doi.org/10.1101/2021.06.29.449134). ***bioRxiv***  
+**1.** **<ins>Li, R.</ins>**, Zhu, J., Zhong, W.-D., Jia, Z., 2021. [PCaDB - a comprehensive and interactive database for transcriptomes from prostate cancer population cohorts](https://doi.org/10.1101/2021.06.29.449134). ***Cancer Research***. (Under revision)  
 **2.** **<ins>Li, R.</ins>**, Zhu, J., Zhong, W.-D., Jia, Z., 2021. [Comprehensive evaluation of machine learning models and gene expression signatures for prostate cancer prognosis using large population cohorts](https://doi.org/10.1101/2021.07.02.450975). ***Cancer Research***. (Under revision)  
 **3.** **<ins>Li, R.</ins>**, Qu, H., Wang, S., Chater, J.M., Wang, X., Cui, Y., Yu, L., Zhou, R., Jia, Q., Traband, R., Wang, M., Xie, W., Yuan, D., Zhu, J., Zhong, W.D., Jia, Z., 2021. [CancerMIRNome: an interactive analysis and visualization database for miRNome profiles of human cancer](https://doi.org/10.1093/nar/gkab784). ***Nucleic Acids Research***. (IF: 16.97)  
 **4.** **<ins>Li, R.</ins><sup>#</sup>**, Liclican, A.<sup>#</sup>, Xu, Y., Pitts, J., Niu, C., Zhang, J., Kim, C., Zhao, X., Soohoo, D., Babusis, D., Yue, Q., Ma, B., Murray, B., Subramanian, R., Xie, X., Zou, J., Bilello, J., Li, L., Schultz, B.E., Sakowicz, R., Smith, B., Shi, P., Murakami, E., Feng, J.Y., 2021. [Key Metabolic Enzymes Involved in Remdesivir Activation in Human Lung Cells](https://doi.org/10.1128/AAC.00602-2). ***Antimicrobial Agents and Chemotherapy***. (IF: 5.19)  
