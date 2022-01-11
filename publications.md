@@ -8,17 +8,19 @@ layout: page
 
 \# These authors contributed equally; * Corresponding author
 
-#### 2021
+#### 2022
 
 **1.** **<ins>Li, R.</ins>**, Zhu, J., Zhong, W.-D., Jia, Z., 2021. [PCaDB - a comprehensive and interactive database for transcriptomes from prostate cancer population cohorts](https://doi.org/10.1101/2021.06.29.449134). ***Cancer Research***. (Under revision)  
 **2.** **<ins>Li, R.</ins>**, Zhu, J., Zhong, W.-D., Jia, Z., 2021. [Comprehensive evaluation of machine learning models and gene expression signatures for prostate cancer prognosis using large population cohorts](https://doi.org/10.1101/2021.07.02.450975). ***Cancer Research***. (Under revision)  
-**3.** **<ins>Li, R.</ins>**, Qu, H., Wang, S., Chater, J.M., Wang, X., Cui, Y., Yu, L., Zhou, R., Jia, Q., Traband, R., Wang, M., Xie, W., Yuan, D., Zhu, J., Zhong, W.D., Jia, Z., 2021. [CancerMIRNome: an interactive analysis and visualization database for miRNome profiles of human cancer](https://doi.org/10.1093/nar/gkab784). ***Nucleic Acids Research***. (IF: 16.97)  
-**4.** **<ins>Li, R.</ins><sup>#</sup>**, Liclican, A.<sup>#</sup>, Xu, Y., Pitts, J., Niu, C., Zhang, J., Kim, C., Zhao, X., Soohoo, D., Babusis, D., Yue, Q., Ma, B., Murray, B., Subramanian, R., Xie, X., Zou, J., Bilello, J., Li, L., Schultz, B.E., Sakowicz, R., Smith, B., Shi, P., Murakami, E., Feng, J.Y., 2021. [Key Metabolic Enzymes Involved in Remdesivir Activation in Human Lung Cells](https://doi.org/10.1128/AAC.00602-2). ***Antimicrobial Agents and Chemotherapy***. (IF: 5.19)  
-**5.** Shi, X.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Zhai, J.<sup>#</sup>, Chen, M., Huang, K., Zheng, Z., Chen, Z., Dong, X., Liu, X., Lu, D., Feng, S., Diao, D., Ren, P., Liu, Z., Morahan, G., Cai, K., 2021. [The First Comprehensive Database of Germline Pathogenic Variants in East Asian Cancer Patients](https://doi.org/10.1093/database/baab075). ***Database***. (IF: 3.45)  
-**6.** Luo, G.<sup>#</sup>, Shen, L.<sup>#</sup>, Zhao, S.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Song, Y., Song, S., Yu, K., Yang, W., Li, X., Sun, J., Wang, Y., Gao, C., Liu, D., Zhang, A., 2021. [Genome-wide identification of seed storage protein gene regulators in wheat through co-expression analysis](https://doi.org/10.1111/tpj.15538). ***The Plant Journal***. (IF: 6.42)  
-**7.** Huang, C., Rangel, D.S., Qin, X., Bui, C., **<ins>Li, R.</ins>**, Jia, Z., Cui, X., and Jin, H., 2021. [The chromatin remodeling protein BAF60/SWP73A regulates the plant immune receptor NLRs](https://doi.org/10.1016/j.chom.2021.01.005). ***Cell Host & Microbe***. (IF: 21.02)  
-**8.** Liu, S., Chen, M., **<ins>Li, R.</ins>**, Li, W., Gal-On, A., Jia, Z., Ding, S., 2021. [Antiviral RNA interference drives natural host adaptation to virus infection](https://advances.sciencemag.org/). ***Nature Communications***. (Under revision)  
+**3.** Liu, S., Chen, M., **<ins>Li, R.</ins>**, Li, W., Gal-On, A., Jia, Z., Ding, S., 2021. [Antiviral RNA interference drives natural host adaptation to virus infection](https://advances.sciencemag.org/). ***Nature Communications***. (Under revision)  
 
+#### 2021
+
+**1.** **<ins>Li, R.</ins>**, Qu, H., Wang, S., Chater, J.M., Wang, X., Cui, Y., Yu, L., Zhou, R., Jia, Q., Traband, R., Wang, M., Xie, W., Yuan, D., Zhu, J., Zhong, W.D., Jia, Z., 2021. [CancerMIRNome: an interactive analysis and visualization database for miRNome profiles of human cancer](https://doi.org/10.1093/nar/gkab784). ***Nucleic Acids Research***. (IF: 16.97)  
+**2.** **<ins>Li, R.</ins><sup>#</sup>**, Liclican, A.<sup>#</sup>, Xu, Y., Pitts, J., Niu, C., Zhang, J., Kim, C., Zhao, X., Soohoo, D., Babusis, D., Yue, Q., Ma, B., Murray, B., Subramanian, R., Xie, X., Zou, J., Bilello, J., Li, L., Schultz, B.E., Sakowicz, R., Smith, B., Shi, P., Murakami, E., Feng, J.Y., 2021. [Key Metabolic Enzymes Involved in Remdesivir Activation in Human Lung Cells](https://doi.org/10.1128/AAC.00602-2). ***Antimicrobial Agents and Chemotherapy***. (IF: 5.19)  
+**3.** Shi, X.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Zhai, J.<sup>#</sup>, Chen, M., Huang, K., Zheng, Z., Chen, Z., Dong, X., Liu, X., Lu, D., Feng, S., Diao, D., Ren, P., Liu, Z., Morahan, G., Cai, K., 2021. [The First Comprehensive Database of Germline Pathogenic Variants in East Asian Cancer Patients](https://doi.org/10.1093/database/baab075). ***Database***. (IF: 3.45)  
+**4.** Luo, G.<sup>#</sup>, Shen, L.<sup>#</sup>, Zhao, S.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Song, Y., Song, S., Yu, K., Yang, W., Li, X., Sun, J., Wang, Y., Gao, C., Liu, D., Zhang, A., 2021. [Genome-wide identification of seed storage protein gene regulators in wheat through co-expression analysis](https://doi.org/10.1111/tpj.15538). ***The Plant Journal***. (IF: 6.42)  
+**5.** Huang, C., Rangel, D.S., Qin, X., Bui, C., **<ins>Li, R.</ins>**, Jia, Z., Cui, X., and Jin, H., 2021. [The chromatin remodeling protein BAF60/SWP73A regulates the plant immune receptor NLRs](https://doi.org/10.1016/j.chom.2021.01.005). ***Cell Host & Microbe***. (IF: 21.02)  
 
 #### 2020
 
