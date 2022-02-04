@@ -10,7 +10,7 @@ layout: page
 
 + Research Bioinformatics Scientist at [Gilead Sciences Inc.](https://www.gilead.com/), Foster City, CA, USA
 + 10+ years of research experience in bioinformatics studies. Developed 6 bioinformatics software/web tools/algorithms
-+ Strong track record of publications in high-impact journals: 24 peer-reviewed publications, including 11 (co)-first/corresponding author papers, with > 330 citations ([Google scholar](https://scholar.google.com/citations?hl=en&user=dsoteJwAAAAJ&view_op=list_works&sortby=pubdate), as of Oct, 2021)
++ Strong track record of publications in high-impact journals: 24 peer-reviewed publications, including 11 (co)-first/corresponding author papers, with > 400 citations ([Google scholar](https://scholar.google.com/citations?hl=en&user=dsoteJwAAAAJ&view_op=list_works&sortby=pubdate), as of Feb, 2022)
 + Research interests include liquid biopsy/early cancer detection, oncology precision medicine, and bioinformatics tool/sequencing technology development for translational medicine.
 
 #### Professional experience
