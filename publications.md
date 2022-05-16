@@ -12,7 +12,7 @@ layout: page
 
 **1.** **<ins>Li, R.</ins><sup>\*</sup>**, Zhu, J., Zhong, W.-D., Jia, Z.<sup>\*</sup>, 2022. [Comprehensive evaluation of machine learning models and gene expression signatures for prostate cancer prognosis using large population cohorts](https://doi.org/10.1101/2021.07.02.450975). ***Cancer Research***. (IF: 12.70)  
 **2.** **<ins>Li, R.</ins><sup>\*</sup>**, Zhu, J., Zhong, W.-D., Jia, Z.<sup>\*</sup>, 2022. [PCaDB - a comprehensive and interactive database for transcriptomes from prostate cancer population cohorts](https://doi.org/10.1101/2021.06.29.449134). ***bioRxiv***.  
-**3.** Liu, S., Chen, M., **<ins>Li, R.</ins>**, Li, W., Gal-On, A., Jia, Z., Ding, S., 2022. [Antiviral RNA interference drives natural host adaptation to virus infection](https://www.nature.com/ncomms/). ***Nature Communications***. (IF: 14.92)  
+**3.** Liu, S., Chen, M., **<ins>Li, R.</ins>**, Li, W., Gal-On, A., Jia, Z., Ding, S., 2022. [Identification of positive and negative regulators of antiviral RNA interference in Arabidopsis thaliana](https://www.nature.com/ncomms/). ***Nature Communications***. (IF: 14.92)  
 
 #### 2021
 
