@@ -8,11 +8,17 @@ layout: page
 
 \# These authors contributed equally; * Corresponding author
 
+#### 2023
+
+**1.** **<ins>Li, R.</ins><sup>\*</sup>**, Zhu, J., Zhong, W.-D., Jia, Z.<sup>\*</sup>, 2021. [PCaDB - a comprehensive and interactive database for transcriptomes from prostate cancer population cohorts](https://doi.org/10.1101/2021.06.29.449134). ***bioRxiv***.  
+**2.** Qu, H.<sup>#</sup>, **<ins>Li, R.</ins><sup>\*</sup>** et al., 2023. [IIIandMe: An Algorithm for Chromosome-scale Haplotype Determination Using Genome-wide Variants of Three Haploid Reproductive Cells]([https://doi.org/10.1101/2021.06.29.449134](https://doi.org/10.1101/2022.12.07.519546). ***bioRxiv***.  
+**3.** Yu, L.<sup>#</sup>, **<ins>Li, R.</ins><sup>\*</sup>** et al., 2023. [An integrated model of splice variants and gene expression profiles to predict clinical outcomes in chronic lymphocytic leukemia](Submitted)  
+**4.** Chen, W., Yu, L, **<ins>Li, R.</ins>** et al. 2023. [Can blood cell genome represent germline cell genome?](Submitted) 
+
 #### 2022
 
 **1.** **<ins>Li, R.</ins><sup>\*</sup>**, Zhu, J., Zhong, W.-D., Jia, Z.<sup>\*</sup>, 2022. [Comprehensive evaluation of machine learning models and gene expression signatures for prostate cancer prognosis using large population cohorts](https://doi.org/10.1101/2021.07.02.450975). ***Cancer Research***. (IF: 13.31)  
-**2.** **<ins>Li, R.</ins><sup>\*</sup>**, Zhu, J., Zhong, W.-D., Jia, Z.<sup>\*</sup>, 2022. [PCaDB - a comprehensive and interactive database for transcriptomes from prostate cancer population cohorts](https://doi.org/10.1101/2021.06.29.449134). ***bioRxiv***.  
-**3.** Liu, S., Chen, M., **<ins>Li, R.</ins>**, Li, W., Gal-On, A., Jia, Z., Ding, S., 2022. [Identification of positive and negative regulators of antiviral RNA interference in Arabidopsis thaliana](https://www.nature.com/ncomms/). ***Nature Communications***. (IF: 17.69)  
+**2.** Liu, S., Chen, M., **<ins>Li, R.</ins>**, Li, W., Gal-On, A., Jia, Z., Ding, S., 2022. [Identification of positive and negative regulators of antiviral RNA interference in Arabidopsis thaliana](https://www.nature.com/ncomms/). ***Nature Communications***. (IF: 17.69)  
 
 #### 2021
 
