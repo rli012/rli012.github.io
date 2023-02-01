@@ -12,8 +12,8 @@ layout: page
 
 **1.** **<ins>Li, R.</ins><sup>\*</sup>**, Zhu, J., Zhong, W.-D., Jia, Z.<sup>\*</sup>, 2021. [PCaDB - a comprehensive and interactive database for transcriptomes from prostate cancer population cohorts](https://doi.org/10.1101/2021.06.29.449134). ***bioRxiv***.  
 **2.** Qu, H.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>** et al., 2023. [IIIandMe: An Algorithm for Chromosome-scale Haplotype Determination Using Genome-wide Variants of Three Haploid Reproductive Cells](https://doi.org/10.1101/2022.12.07.519546). ***bioRxiv***.  
-**3.** Yu, L.<sup>#</sup>, **<ins>Li, R.</ins>** et al., 2023. An integrated model of splice variants and gene expression profiles to predict clinical outcomes in chronic lymphocytic leukemia. (Submitted)  
-**4.** Chen, W., Yu, L, **<ins>Li, R.</ins>** et al. 2023. Can blood cell genome represent germline cell genome? (Submitted) 
+**3.** Yu, L., **<ins>Li, R.</ins>** et al., 2023. An integrated model of splice variants and gene expression profiles to predict clinical outcomes in chronic lymphocytic leukemia. (Submitted)  
+**4.** Chen, W., Yu, L., **<ins>Li, R.</ins>** et al. 2023. Can blood cell genome represent germline cell genome? (Submitted) 
 
 #### 2022
 
