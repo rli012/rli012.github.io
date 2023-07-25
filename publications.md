@@ -14,11 +14,13 @@ layout: page
 **2.** Qu, H.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>** et al., 2023. [IIIandMe: An Algorithm for Chromosome-scale Haplotype Determination Using Genome-wide Variants of Three Haploid Reproductive Cells](https://doi.org/10.1101/2022.12.07.519546). ***bioRxiv***.  
 **3.** Wang, W., Yuan, D., Jiang, K., **<ins>Li, R.</ins>** et al., 2023. [Genome-Wide CRISPR-Cas9 Screening and Identification of Potential Genes Promoting Prostate Cancer Growth and Metastasis](https://doi.org/10.2174/1568009622666220615154137). **Current Cancer Drug Targets**.  
 **4.** Yu, L., **<ins>Li, R.</ins>** et al., 2023. An integrated model of splice variants and gene expression profiles to predict clinical outcomes in chronic lymphocytic leukemia. (Submitted)  
-**5.** Chen, W., Yu, L., **<ins>Li, R.</ins>** et al. 2023. Can blood cell genome represent germline cell genome? (Submitted) 
+**5.** Yu, L., **<ins>Li, R.</ins>** et al., 2023. A Hierarchical Multi-Omics Prognostic Model Reveals the Relevance of Human Papillomavirus to Prostate Cancer. (Submitted)  
+**6.** Chen, W., Yu, L., **<ins>Li, R.</ins>** et al. 2023. Can blood cell genome represent germline cell genome? (Submitted)  
+**7.** Yin, W., Chen, G., Li, Y., **<ins>Li, R.</ins>** et al. 2023. Identification of a 9-Gene Signature for Accurately Predicting Biochemical Recurrence in Primary Prostate Cancer: A Benchmarking Study Using Ten Machine Learning Methods and Twelve Patient Cohorts. (Submitted)  
 
 #### 2022
 
-**1.** **<ins>Li, R.</ins><sup>\*</sup>**, Zhu, J., Zhong, W.-D., Jia, Z.<sup>\*</sup>, 2022. [Comprehensive evaluation of machine learning models and gene expression signatures for prostate cancer prognosis using large population cohorts](https://doi.org/10.1101/2021.07.02.450975). ***Cancer Research***. (IF: 13.31)  
+**1.** **<ins>Li, R.</ins><sup>\*</sup>**, Zhu, J., Zhong, W.-D., Jia, Z.<sup>\*</sup>, 2022. [Comprehensive evaluation of machine learning models and gene expression signatures for prostate cancer prognosis using large population cohorts](https://doi.org/10.1101/2021.07.02.450975). ***Cancer Research***. (IF: 13.31.)  
 **2.** Liu, S., Chen, M., **<ins>Li, R.</ins>**, Li, W., Gal-On, A., Jia, Z., Ding, S., 2022. [Identification of positive and negative regulators of antiviral RNA interference in Arabidopsis thaliana](https://www.nature.com/ncomms/). ***Nature Communications***. (IF: 17.69)  
 
 #### 2021
