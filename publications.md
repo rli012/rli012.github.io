@@ -8,20 +8,26 @@ layout: page
 
 \# These authors contributed equally; * Corresponding author
 
-#### 2023
+#### 2024
 
-**1.** **<ins>Li, R.</ins><sup>\*</sup>**, Zhu, J., Zhong, W.-D., Jia, Z.<sup>\*</sup>, 2021. [PCaDB - a comprehensive and interactive database for transcriptomes from prostate cancer population cohorts](https://doi.org/10.1101/2021.06.29.449134). ***bioRxiv***.  
-**2.** Qu, H.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>** et al., 2023. [IIIandMe: An Algorithm for Chromosome-scale Haplotype Determination Using Genome-wide Variants of Three Haploid Reproductive Cells](https://doi.org/10.1101/2022.12.07.519546). ***bioRxiv***.  
-**3.** Wang, W., Yuan, D., Jiang, K., **<ins>Li, R.</ins>** et al., 2023. [Genome-Wide CRISPR-Cas9 Screening and Identification of Potential Genes Promoting Prostate Cancer Growth and Metastasis](https://doi.org/10.2174/1568009622666220615154137). **Current Cancer Drug Targets**.  
-**4.** Yu, L., **<ins>Li, R.</ins>** et al., 2023. An integrated model of splice variants and gene expression profiles to predict clinical outcomes in chronic lymphocytic leukemia. (Submitted)  
-**5.** Yu, L., **<ins>Li, R.</ins>** et al., 2023. A Hierarchical Multi-Omics Prognostic Model Reveals the Relevance of Human Papillomavirus to Prostate Cancer. (Submitted)  
-**6.** Chen, W., Yu, L., **<ins>Li, R.</ins>** et al. 2023. Can blood cell genome represent germline cell genome? (Submitted)  
-**7.** Yin, W., Chen, G., Li, Y., **<ins>Li, R.</ins>** et al. 2023. Identification of a 9-Gene Signature for Accurately Predicting Biochemical Recurrence in Primary Prostate Cancer: A Benchmarking Study Using Ten Machine Learning Methods and Twelve Patient Cohorts. (Submitted)  
+**1.** Huang, H.-C.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Huang., H., Liu, S.-W., Wan, C., Chaudhuri, S., Yue, L., Wong, T., Dominical, V., Yen, R., Ngo, O., Bui, N., Stoppler, H., Yi, T., Suthram, S., Li, L., Sun, K.-H., 2024. [Single-cell sequencing of full-length transcripts and T-cell receptors with automated high-throughput Smart-seq3](https://doi.org/10.1186/s12864-024-11036-0). ***BMC Genomics***. 
+
+
+Huang Huang, Szu-Wen Liu, Christine Wan, Subhra Chaudhuri, Lili Yue, Terence Wong, Venina Dominical, Randy Yen, Olivia Ngo, Nam Bui, Hubert Stoppler, Tangsheng Yi, Silpa Suthram, Li Li, Kai-Hui Sun
+
+#### 2023
+ 
+**1.** Yu, L., **<ins>Li, R.</ins>** et al., 2023. An integrated model of splice variants and gene expression profiles to predict clinical outcomes in chronic lymphocytic leukemia. (Submitted)  
+**2.** Yu, L., **<ins>Li, R.</ins>** et al., 2023. A Hierarchical Multi-Omics Prognostic Model Reveals the Relevance of Human Papillomavirus to Prostate Cancer. (Submitted)  
+**3.** Chen, W., Yu, L., **<ins>Li, R.</ins>** et al. 2023. Can blood cell genome represent germline cell genome? (Submitted)  
+**4.** Yin, W., Chen, G., Li, Y., **<ins>Li, R.</ins>** et al. 2023. Identification of a 9-Gene Signature for Accurately Predicting Biochemical Recurrence in Primary Prostate Cancer: A Benchmarking Study Using Ten Machine Learning Methods and Twelve Patient Cohorts. (Submitted)  
 
 #### 2022
 
 **1.** **<ins>Li, R.</ins><sup>\*</sup>**, Zhu, J., Zhong, W.-D., Jia, Z.<sup>\*</sup>, 2022. [Comprehensive evaluation of machine learning models and gene expression signatures for prostate cancer prognosis using large population cohorts](https://doi.org/10.1101/2021.07.02.450975). ***Cancer Research***. (IF: 13.31.)  
 **2.** Liu, S., Chen, M., **<ins>Li, R.</ins>**, Li, W., Gal-On, A., Jia, Z., Ding, S., 2022. [Identification of positive and negative regulators of antiviral RNA interference in Arabidopsis thaliana](https://www.nature.com/ncomms/). ***Nature Communications***. (IF: 17.69)  
+**3.** Wang, W., Yuan, D., Jiang, K., **<ins>Li, R.</ins>** et al., 2022. [Genome-Wide CRISPR-Cas9 Screening and Identification of Potential Genes Promoting Prostate Cancer Growth and Metastasis](https://doi.org/10.2174/1568009622666220615154137). **Current Cancer Drug Targets**.  
+**4.** Qu, H.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>** et al., 2022. [IIIandMe: An Algorithm for Chromosome-scale Haplotype Determination Using Genome-wide Variants of Three Haploid Reproductive Cells](https://doi.org/10.1101/2022.12.07.519546). ***bioRxiv***. 
 
 #### 2021
 
@@ -30,6 +36,7 @@ layout: page
 **3.** Shi, X.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Zhai, J.<sup>#</sup>, Chen, M., Huang, K., Zheng, Z., Chen, Z., Dong, X., Liu, X., Lu, D., Feng, S., Diao, D., Ren, P., Liu, Z., Morahan, G., Cai, K., 2021. [The First Comprehensive Database of Germline Pathogenic Variants in East Asian Cancer Patients](https://doi.org/10.1093/database/baab075). ***Database***. (IF: 4.46)  
 **4.** Luo, G.<sup>#</sup>, Shen, L.<sup>#</sup>, Zhao, S.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Song, Y., Song, S., Yu, K., Yang, W., Li, X., Sun, J., Wang, Y., Gao, C., Liu, D., Zhang, A., 2021. [Genome-wide identification of seed storage protein gene regulators in wheat through co-expression analysis](https://doi.org/10.1111/tpj.15538). ***The Plant Journal***. (IF: 7.09)  
 **5.** Huang, C., Rangel, D.S., Qin, X., Bui, C., **<ins>Li, R.</ins>**, Jia, Z., Cui, X., and Jin, H., 2021. [The chromatin remodeling protein BAF60/SWP73A regulates the plant immune receptor NLRs](https://doi.org/10.1016/j.chom.2021.01.005). ***Cell Host & Microbe***. (IF: 31.32)  
+**6.** **<ins>Li, R.</ins><sup>\*</sup>**, Zhu, J., Zhong, W.-D., Jia, Z.<sup>\*</sup>, 2021. [PCaDB - a comprehensive and interactive database for transcriptomes from prostate cancer population cohorts](https://doi.org/10.1101/2021.06.29.449134). ***bioRxiv***.  
 
 #### 2020
 
