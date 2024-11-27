@@ -10,10 +10,8 @@ layout: page
 
 #### 2024
 
-**1.** Huang, H.-C.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Huang., H., Liu, S.-W., Wan, C., Chaudhuri, S., Yue, L., Wong, T., Dominical, V., Yen, R., Ngo, O., Bui, N., Stoppler, H., Yi, T., Suthram, S., Li, L., Sun, K.-H., 2024. [Single-cell sequencing of full-length transcripts and T-cell receptors with automated high-throughput Smart-seq3](https://doi.org/10.1186/s12864-024-11036-0). ***BMC Genomics***. 
-
-
-Huang Huang, Szu-Wen Liu, Christine Wan, Subhra Chaudhuri, Lili Yue, Terence Wong, Venina Dominical, Randy Yen, Olivia Ngo, Nam Bui, Hubert Stoppler, Tangsheng Yi, Silpa Suthram, Li Li, Kai-Hui Sun
+**1.** Huang, H.-C.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>**, Huang., H., Liu, S.-W., Wan, C., Chaudhuri, S., Yue, L., Wong, T., Dominical, V., Yen, R., Ngo, O., Bui, N., Stoppler, H., Yi, T., Suthram, S., Li, L., Sun, K.-H., 2024. [Single-cell sequencing of full-length transcripts and T-cell receptors with automated high-throughput Smart-seq3](https://doi.org/10.1186/s12864-024-11036-0). ***BMC Genomics***. (IF: 3.5)  
+**2.** Yin, W., Chen, G., Li, Y., **<ins>Li, R.</ins>**, Jia, Z., Zhong, C., Wang, S., Mao, X., Cai, Z., Deng, J., Zhong, W.-D., Pan, B., Lu, J., 2024. [Identification of a 9-gene signature to enhance biochemical recurrence prediction in primary prostate cancer: A benchmarking study using ten machine learning methods and twelve patient cohorts](https://doi.org/10.1016/j.canlet.2024.216739). ***Cancer Letters***. (IF: 9.1)  
 
 #### 2023
  
@@ -26,7 +24,7 @@ Huang Huang, Szu-Wen Liu, Christine Wan, Subhra Chaudhuri, Lili Yue, Terence Won
 
 **1.** **<ins>Li, R.</ins><sup>\*</sup>**, Zhu, J., Zhong, W.-D., Jia, Z.<sup>\*</sup>, 2022. [Comprehensive evaluation of machine learning models and gene expression signatures for prostate cancer prognosis using large population cohorts](https://doi.org/10.1101/2021.07.02.450975). ***Cancer Research***. (IF: 13.31.)  
 **2.** Liu, S., Chen, M., **<ins>Li, R.</ins>**, Li, W., Gal-On, A., Jia, Z., Ding, S., 2022. [Identification of positive and negative regulators of antiviral RNA interference in Arabidopsis thaliana](https://www.nature.com/ncomms/). ***Nature Communications***. (IF: 17.69)  
-**3.** Wang, W., Yuan, D., Jiang, K., **<ins>Li, R.</ins>** et al., 2022. [Genome-Wide CRISPR-Cas9 Screening and Identification of Potential Genes Promoting Prostate Cancer Growth and Metastasis](https://doi.org/10.2174/1568009622666220615154137). **Current Cancer Drug Targets**.  
+**3.** Wang, W., Yuan, D., Jiang, K., **<ins>Li, R.</ins>** et al., 2022. [Genome-Wide CRISPR-Cas9 Screening and Identification of Potential Genes Promoting Prostate Cancer Growth and Metastasis](https://doi.org/10.2174/1568009622666220615154137). **Current Cancer Drug Targets**. (IF: 2.3)  
 **4.** Qu, H.<sup>#</sup>, **<ins>Li, R.</ins><sup>#</sup>** et al., 2022. [IIIandMe: An Algorithm for Chromosome-scale Haplotype Determination Using Genome-wide Variants of Three Haploid Reproductive Cells](https://doi.org/10.1101/2022.12.07.519546). ***bioRxiv***. 
 
 #### 2021
